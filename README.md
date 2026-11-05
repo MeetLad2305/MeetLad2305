@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Meet Lad
 
-<h3 align="center">Computer Engineering Student | Programmer | Problem Solver</h3>
+
+<table width="100%" bgcolor="#211C3A">
+  <tr>
+    <td align="center" height="180">
+      <h1>👋 Hi, I'm Meet Lad</h1>
+      <h3>Computer Engineering Student | Programmer | Problem Solver</h3>
+      <p>Learning, Building and Exploring Technology 🚀</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Learning+and+Building+Projects;Exploring+Programming+%26+Technology;Always+Ready+to+Learn+Something+New!" alt="Typing SVG" />
