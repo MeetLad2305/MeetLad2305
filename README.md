@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:211C3A,100:302B63&height=220&section=header&text=Meet%20Lad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=60&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:142D4E,100:302B63&height=220&section=header&text=Meet%20Lad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=60&descColor=ffffff)
 ---
 
 ## 🚀 About Me
