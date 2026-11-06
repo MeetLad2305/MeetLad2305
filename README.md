@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
@@ -80,7 +80,9 @@
 </p>
 
 ## 🐍 Contribution Snake
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeetLad2305/MeetLad2305/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 
 ## 🌐 Connect With Me
