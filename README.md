@@ -61,9 +61,7 @@
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced C++ and Object-Oriented Programming
-- Python Programming
+ -C++ 
 - Database Management Systems
 - Computer Networks
 - Web Development
